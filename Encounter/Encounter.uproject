@@ -29,6 +29,14 @@
 		{
 			"Name": "Switchboard",
 			"Enabled": true
+		},
+		{
+			"Name": "Harmonix",
+			"Enabled": true
+		},
+		{
+			"Name": "MusicEnvironment",
+			"Enabled": true
 		}
 	]
 }
